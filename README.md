@@ -52,8 +52,3 @@ O objetivo deste projeto é oferecer uma experiência de navegação intuitiva e
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
