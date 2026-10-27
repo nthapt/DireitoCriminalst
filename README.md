@@ -44,11 +44,13 @@ O objetivo deste projeto é oferecer uma experiência de navegação intuitiva e
 
 ## 📸 Demonstração / Preview
 
-<img width="1903" height="961" alt="Captura de Tela 2026-10-26 às 16 40 35" src="https://github.com/user-attachments/assets/1640b69d-a0a2-4e65-b1b4-fb1cf84ff97a" />
-<img width="1920" height="961" alt="Captura de Tela 2026-10-26 às 16 40 29" src="https://github.com/user-attachments/assets/06eff3da-39c0-4720-a37f-6d7b2cfc49ec" />
-<img width="1920" height="960" alt="Captura de Tela 2026-10-26 às 16 40 23" src="https://github.com/user-attachments/assets/7115abb6-d470-4f2d-913c-6f2abd5039fe" />
-<img width="1920" height="961" alt="Captura de Tela 2026-10-26 às 16 40 17" src="https://github.com/user-attachments/assets/02bbc0a8-76b2-4797-bfb2-8c74df567eb5" />
-<img width="1920" height="961" alt="Captura de Tela 2026-10-26 às 16 40 11" src="https://github.com/user-attachments/assets/eb27fc4a-b6b7-4047-a5d9-e2dce90c2d63" />
+<img width="1425" height="725" alt="Captura de Tela 2026-10-27 às 09 25 33" src="https://github.com/user-attachments/assets/26756656-ad13-4072-b0a7-b669cd32de7d" />
+<img width="1424" height="729" alt="Captura de Tela 2026-10-27 às 09 25 25" src="https://github.com/user-attachments/assets/cf6ad460-ee5d-4372-82f4-b287a6ff1603" />
+<img width="1425" height="725" alt="Captura de Tela 2026-10-27 às 09 25 10" src="https://github.com/user-attachments/assets/28d538a6-e06c-4af4-81f0-36d7397a4e70" />
+<img width="1431" height="724" alt="Captura de Tela 2026-10-27 às 09 25 00" src="https://github.com/user-attachments/assets/b1833b86-ead1-443f-b3ea-be188226cc6a" />
+<img width="1433" height="712" alt="Captura de Tela 2026-10-27 às 09 24 49" src="https://github.com/user-attachments/assets/aadb7c9e-56f3-4f12-8910-311aaec6b0b7" />
+<img width="1430" height="727" alt="Captura de Tela 2026-10-27 às 09 24 39" src="https://github.com/user-attachments/assets/7f1c3028-ba08-4901-8beb-c60292f08039" />
+
 
 ---
 
